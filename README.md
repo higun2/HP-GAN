@@ -1,6 +1,6 @@
-## Barlow Twins GAN &mdash; Official PyTorch implementation
+## HP GAN &mdash; Official PyTorch implementation
 
-**Barlow Twins GAN: Redundancy Reduction in GAN Training with Pretrained Networks**<br>
+**Harnessing Pretrained Networks for Training GANs**<br>
 by [Geonhui Son](https://scholar.google.co.kr/citations?user=oHpLEykAAAAJ&hl=ko&oi=ao), [Jeong Ryong Lee](https://scholar.google.co.kr/citations?user=brQgjXcAAAAJ&hl=ko&oi=ao) and [Dosik Hwang](https://scholar.google.co.kr/citations?user=PciqeBcAAAAJ&hl=ko&oi=ao). <br>
 
 ## ToDos
