@@ -16,7 +16,7 @@ by [Geonhui Son](https://scholar.google.co.kr/citations?user=oHpLEykAAAAJ&hl=ko&
 - GCC 7 or later compilers. The recommended GCC version depends on your CUDA version; see for example, CUDA 11.4 system requirements.
 - Use the following commands with Miniconda3 to create and activate your PG Python environment:
     - ```conda env create -f environment.yml```
-    - ```conda activate pg```
+    - ```conda activate hp-gan```
 
 ## Data Preparation ##
 For a quick start, you can download the few-shot datasets provided by the authors of [FastGAN](https://github.com/odegeasslbc/FastGAN-pytorch). You can download them [here](https://drive.google.com/file/d/1aAJCZbXNHyraJ6Mi13dSbe7pTyfPXha0/view). To prepare the dataset at the respective resolution, run for example
