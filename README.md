@@ -35,7 +35,7 @@ Training your own HP-GAN on Pokemnon dataset using 8 GPUs:
 python train.py --outdir=./training-runs/ --cfg=fastgan_lite --data=./data/pokemon256.zip \
   --gpus=8 --batch=64 --mirror=1 --snap=50 --batch-gpu=8 --kimg=10000 --dc=True --ft=True
 ```
-```--batch``` specifies the overall batch size, ```--batch-gpu``` specifies the batch size per GPU.The training loop will automatically accumulate gradients if you use fewer GPUs until the overall batch size is reached.
+```--batch``` specifies the overall batch size, ```--batch-gpu``` specifies the batch size per GPU. The training loop will automatically accumulate gradients if you use fewer GPUs until the overall batch size is reached.
 
 ```--dc``` enables **Discriminator Consistency** and ```--ft``` enables **FakeTwins**. We train with a lightweight version of FastGAN by default (```--cfg=fastgan_lite```).
 
