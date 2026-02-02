@@ -6,9 +6,9 @@ This repository contains code for "HP-GAN: Harnessing Pretrained Networks for GA
 
 by [Geonhui Son](https://scholar.google.co.kr/citations?user=oHpLEykAAAAJ&hl=ko&oi=ao), [Jeong Ryong Lee](https://scholar.google.co.kr/citations?user=brQgjXcAAAAJ&hl=ko&oi=ao) and [Dosik Hwang](https://scholar.google.co.kr/citations?user=PciqeBcAAAAJ&hl=ko&oi=ao). <br>
 
-## ToDos
+<!-- ## ToDos
 - [x] Initial code release
-- [ ] Providing pretrained models
+- [ ] Providing pretrained models -->
 
 ## Requirements ##
 - 64-bit Python 3.8 and PyTorch 1.9.0 (or later). See https://pytorch.org for PyTorch install instructions.
