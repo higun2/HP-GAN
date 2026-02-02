@@ -2,6 +2,8 @@
 
 <img src="media/samples.jpg">
 
+[[Paper](https://www.sciencedirect.com/science/article/pii/S0893608026001280?dgcid=rss_sd_all)]
+
 This repository contains code for "HP-GAN: Harnessing Pretrained Networks for GAN Improvement with FakeTwins and Discriminator Consistency"
 
 by [Geonhui Son](https://scholar.google.co.kr/citations?user=oHpLEykAAAAJ&hl=ko&oi=ao), [Jeong Ryong Lee](https://scholar.google.co.kr/citations?user=brQgjXcAAAAJ&hl=ko&oi=ao) and [Dosik Hwang](https://scholar.google.co.kr/citations?user=PciqeBcAAAAJ&hl=ko&oi=ao). <br>
