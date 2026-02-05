@@ -3,8 +3,9 @@
 <img src="media/samples.jpg">
 
 [[Paper](https://www.sciencedirect.com/science/article/pii/S0893608026001280?dgcid=rss_sd_all)]
+[[Arxiv](https://arxiv.org/abs/2602.03039)]
 
-This repository contains code for "HP-GAN: Harnessing Pretrained Networks for GAN Improvement with FakeTwins and Discriminator Consistency"
+This repository contains code for our *Neural Networks* paper "HP-GAN: Harnessing Pretrained Networks for GAN Improvement with FakeTwins and Discriminator Consistency"
 
 by [Geonhui Son](https://scholar.google.co.kr/citations?user=oHpLEykAAAAJ&hl=ko&oi=ao), [Jeong Ryong Lee](https://scholar.google.co.kr/citations?user=brQgjXcAAAAJ&hl=ko&oi=ao) and [Dosik Hwang](https://scholar.google.co.kr/citations?user=PciqeBcAAAAJ&hl=ko&oi=ao). <br>
 
@@ -66,6 +67,17 @@ python calc_metrics.py --metrics=fid50k_full --network=PATH_TO_NETWORK_PKL
 To see the available metrics, run
 ```
 python calc_metrics.py --help
+```
+## Citation
+```
+@article{son2026hp,
+  title={HP-GAN: Harnessing Pretrained Networks for GAN Improvement with FakeTwins and Discriminator Consistency},
+  author={Son, Geonhui and Lee, Jeongryong and Hwang, Doisk},
+  journal={Neural Networks},
+  pages={108666},
+  year={2026},
+  publisher={Elsevier}
+}
 ```
 
 ## Acknowledgemnets
