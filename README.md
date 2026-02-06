@@ -68,6 +68,21 @@ To see the available metrics, run
 ```
 python calc_metrics.py --help
 ```
+
+## Pretrained Models ##
+We provide the following pretrained models (as `PATH_TO_NETWORK_PKL`):
+
+|Dataset| Res | FID | PATH
+ :---  |  ---:  |  ---:  | :---
+FFHQ| 256<sup>2</sup>  |1.69|  [link](https://drive.google.com/file/d/1y_LpH_880wmvMNuo-iFUBrvEdKx9BOJc/view?usp=sharing)<br>
+Pokemon| 256<sup>2</sup>  |23.62|  [link](https://drive.google.com/file/d/1mVg-oVKkiM1joMnQefH6e_MVoMKhCNF7/view?usp=sharing)<br>
+LSUN-Bedroom| 256<sup>2</sup>  |1.19|  [link](https://drive.google.com/file/d/1L-da4sRvdWkV57oMTKx3DwUN66dC4By3/view?usp=sharing)<br>
+LSUN-Church| 256<sup>2</sup>  |1.44|  [link](https://drive.google.com/file/d/1ud44FwtQtTM9Qv3SnN5yhY30Nx86ZyGf/view?usp=sharing)<br>
+AFHQ-Cat| 512<sup>2</sup>  |1.81|  [link](https://drive.google.com/file/d/1rdQrugP_fNm_qgKEklifilcnoS__oIJf/view?usp=sharing)<br>
+AFHQ-Dog| 512<sup>2</sup>  |3.63|  [link](https://drive.google.com/file/d/1TzTQzoZpMCqwfHNicg5_TkrGAXgxlY8j/view?usp=sharing)<br>
+AFHQ-Wild| 512<sup>2</sup>  |1.18|  [link](https://drive.google.com/file/d/1G0B496anztOhc-SA2pwYSWdqL5uPnwVf/view?usp=sharing)<br>
+
+
 ## Citation
 ```
 @article{son2026hp,
