@@ -397,7 +397,6 @@ def _make_pretrained(backbone, verbose=False):
 
     elif backbone in VITS:
         model = timm.create_model(backbone, pretrained=True)
-        # model = timm.create_model(backbone, checkpoint_path='/mai_nas/GH/stylegan-xl/dino_vitbase16_pretrain.pth', pretrained=False)
         pretrained = _make_vit(model, backbone)
 
     elif backbone == 'resnet50_clip':
