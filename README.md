@@ -73,7 +73,7 @@ python calc_metrics.py --help
 We provide the following pretrained models (as `PATH_TO_NETWORK_PKL`):
 
 |Dataset| Res | FID | PATH
- :---  |  ---:  |  ---:  | :---
+ :---  |  :---:  |  :---:  | :---:
 FFHQ| 256<sup>2</sup>  |1.69|  [link](https://drive.google.com/file/d/1y_LpH_880wmvMNuo-iFUBrvEdKx9BOJc/view?usp=sharing)<br>
 Pokemon| 256<sup>2</sup>  |23.62|  [link](https://drive.google.com/file/d/1mVg-oVKkiM1joMnQefH6e_MVoMKhCNF7/view?usp=sharing)<br>
 LSUN-Bedroom| 256<sup>2</sup>  |1.19|  [link](https://drive.google.com/file/d/1L-da4sRvdWkV57oMTKx3DwUN66dC4By3/view?usp=sharing)<br>
