@@ -17,7 +17,7 @@ by [Geonhui Son](https://scholar.google.co.kr/citations?user=oHpLEykAAAAJ&hl=ko&
 - 64-bit Python 3.8 and PyTorch 1.9.0 (or later). See https://pytorch.org for PyTorch install instructions.
 - CUDA toolkit 11.1 or later.
 - GCC 7 or later compilers. The recommended GCC version depends on your CUDA version; see for example, CUDA 11.4 system requirements.
-- Use the following commands with Miniconda3 to create and activate your PG Python environment:
+- Use the following commands with Miniconda3 to create and activate your Python environment:
     - ```conda env create -f environment.yml```
     - ```conda activate hp-gan```
 
