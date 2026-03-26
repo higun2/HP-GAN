@@ -87,7 +87,7 @@ AFHQ-Wild| 512<sup>2</sup>  |1.18|  [link](https://drive.google.com/file/d/1G0B4
 ```
 @article{son2026hp,
   title={HP-GAN: Harnessing Pretrained Networks for GAN Improvement with FakeTwins and Discriminator Consistency},
-  author={Son, Geonhui and Lee, Jeongryong and Hwang, Doisk},
+  author={Son, Geonhui and Lee, Jeongryong and Hwang, Dosik},
   journal={Neural Networks},
   pages={108666},
   year={2026},
