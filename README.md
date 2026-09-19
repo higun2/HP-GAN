@@ -5,7 +5,7 @@
 [[paper](https://www.sciencedirect.com/science/article/pii/S0893608026001280?dgcid=rss_sd_all)]
 [[arxiv](https://arxiv.org/abs/2602.03039)]
 
-This repository contains code for our *Neural Networks* paper "HP-GAN: Harnessing Pretrained Networks for GAN Improvement with FakeTwins and Discriminator Consistency"
+This repository contains code for our *Neural Networks* paper "HP-GAN: Harnessing Pretrained Networks for GAN Improvement with FakeTwins and Discriminator Consistency".
 
 <!-- ## ToDos
 - [x] Initial code release
