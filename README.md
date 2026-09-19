@@ -1,4 +1,4 @@
-## HP-GAN &mdash; Official PyTorch implementation
+# HP-GAN &mdash; Official PyTorch implementation
 
 <img src="media/samples.jpg">
 
